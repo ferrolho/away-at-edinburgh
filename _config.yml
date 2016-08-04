@@ -10,8 +10,8 @@ title: Away at Edinburgh
 email: henriqueferrolho@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog about my stay at Edinburgh.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ferrolho.github.io/away-at-edinburgh" # the base hostname & protocol for your site
+baseurl: "/away-at-edinburgh" # the subpath of your site, e.g. /blog
+url: "http://ferrolho.github.io" # the base hostname & protocol for your site
 twitter_username: hferrolho
 github_username:  ferrolho
 
