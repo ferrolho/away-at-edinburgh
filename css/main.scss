@@ -5,6 +5,20 @@
 
 
 
+// Font variables
+$font-name: libretto-icons;
+$font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
+
+@font-face {
+    font-family: $font-name;
+    src: url($font-path-file-name+'.eot'); /* IE9 Compat Modes */
+    src: url($font-path-file-name+'.woff') format('woff'), /* Pretty Modern Browsers */
+         url($font-path-file-name+'.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url($font-path-file-name+'.svg#font_name') format('svg'); /* Legacy iOS */
+}
+
+
+
 // Our variables
 $base-font-family: "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
 $base-font-size:   16px;
@@ -14,6 +28,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
+$title-color:      #943526;
 $text-color:       #363431;
 $background-color: #f2f1ed;
 $brand-color:      #2a7ae2;
