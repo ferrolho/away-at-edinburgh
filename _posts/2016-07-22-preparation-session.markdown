@@ -3,7 +3,7 @@ layout: post
 title:  "Preparation session"
 date:   2016-07-21 00:00:00 +0100
 categories: jekyll update
-thumbnail: 20160721_113102.jpg
+thumbnail: 20160721_122758.jpg
 ---
 
 Today my university hosted a meeting for all the students that are going to study abroad next year (myself included). It was boring, but mandatory.
