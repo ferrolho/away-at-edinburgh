@@ -5,9 +5,9 @@
 	<meta name="theme-color" content="#943526">
 
 	{% if page.thumbnail %}
-	<meta property="og:image" content="{{ site.baseurl }}/assets/{{ page.thumbnail }}">
+	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/{{ page.thumbnail }}">
 	{% else %}
-	<meta property="og:image" content="{{ site.baseurl }}/thumbnail.jpg">
+	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/thumbnail.jpg">
 	{% endif %}
 
 	<link rel="icon" href="favicon.ico" type="image/ico">
