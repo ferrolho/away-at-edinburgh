@@ -52,12 +52,23 @@ img {
 /**
  * Figures
  */
+figure {
+    background: #fff;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.025);
+    padding: 0.5em;
+}
+
 figure > img {
     display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+    color: $grey-color;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.2;
+    margin: 1em 0.5em 0.5em;
+    text-align: center;
 }
 
 
@@ -82,6 +93,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+    line-height: initial;
     font-weight: $base-font-weight;
 }
 
@@ -94,12 +106,8 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
     &:hover {
-        color: $text-color;
+        color: darken($brand-color, 5%);
         text-decoration: none;
     }
 }

@@ -7,17 +7,21 @@ layout: default
 	<ul class="post-list">
 		{% for post in site.posts %}
 		<li>
-			<header>
-				<div>
-					<span class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
+			<article>
+				<header>
+					<div>
+						<span class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
+					</div>
+
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+				</header>
+
+				<div class="entry-content">
+					{{ post.content }}
 				</div>
-
-				<h2>
-					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				</h2>
-			</header>
-
-			{{ post.content }}
+			</article>
 		</li>
 		{% endfor %}
 	</ul>
