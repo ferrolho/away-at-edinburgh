@@ -143,19 +143,8 @@ article {
     .post-header {
         &:before {
             background: #eae9e6;
-            border: 1px solid #d9d6d0;
             border-color: #faf9f5;
-            border-radius: 50%;
             box-shadow: 0 0 0 4px #eae9e6;
-            color: #a09a92;
-            content: "p";
-            display: inline-block;
-            font-family: libretto-icons;
-            font-size: 21px;
-            line-height: 21px;
-            margin-bottom: 1rem;
-            padding: 10px;
-            text-shadow: none;
         }
     }
 }
