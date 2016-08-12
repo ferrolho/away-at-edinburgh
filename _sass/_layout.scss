@@ -175,3 +175,44 @@
         }
     }
 }
+
+#post-nav {
+    display: block;
+    padding: 0 2em;
+
+    .next,
+    .previous {
+        float: left;
+        margin: 1rem 0;
+        width: 50%;
+    }
+
+    .previous {
+        text-align: right;
+    }
+
+    @include media-query($on-palm) {
+        padding: initial;
+
+        .next,
+        .previous {
+            text-align: center;
+            width: 100%;
+        }
+    }
+
+    span {
+        color: $brand-color;
+        display: block;
+        font-family: Montserrat;
+        font-size: 0.75rem;
+        font-style: normal;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+
+    a {
+        color: $grey-color;
+        font-style: italic;
+    }
+}

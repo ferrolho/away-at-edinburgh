@@ -2,7 +2,6 @@
 layout: post
 title:  "Preparation session"
 date:   2016-07-21 11:11:11 +0100
-categories: jekyll update
 thumbnail: 20160721_122758.jpg
 ---
 
