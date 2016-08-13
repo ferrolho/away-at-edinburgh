@@ -185,10 +185,33 @@
         float: left;
         margin: 1rem 0;
         width: 50%;
+
+        span:after,
+        span:before {
+            border: solid transparent 4px;
+            content: "";
+            display: inline-block;
+            height: 0;
+            margin: 0 0.5rem;
+            top: 0.8em;
+            width: 0;
+        }
+    }
+
+    .next {
+        span:before {
+            border-left: 0;
+            border-right-color: $grey-color;
+        }
     }
 
     .previous {
         text-align: right;
+
+        span:after {
+            border-left-color: $grey-color;
+            border-right: 0;
+        }
     }
 
     @include media-query($on-palm) {
@@ -214,5 +237,28 @@
     a {
         color: $grey-color;
         font-style: italic;
+    }
+}
+
+
+
+/**
+ * Table of Contents
+ */
+.table-of-contents {
+    h1 {
+        color: $brand-color;
+        display: block;
+        font-family: "Playfair Display";
+        font-size: 44px;
+        text-align: center;
+
+        @include media-query($on-laptop) {
+            font-size: 36px;
+        }
+    }
+
+    span {
+        color: $grey-color;
     }
 }
