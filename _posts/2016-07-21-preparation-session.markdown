@@ -16,7 +16,7 @@ We got the chance to accept and sign our scholarship contracts. You see, our uni
 	</figcaption>
 </figure>
 
-Financing is divided in three groups according to the living costs of each country. Scotland belongs to the most expensive group, so I get to receive 10€ for each day I spend there. Since I am going to stay there 135 days, that adds up to a total of 1.350€.
+Financing is divided in three groups according to the living costs of each country. Scotland belongs to the most expensive group, so I get to receive 10€ for each day I spend there. Since I am going to stay there for approximately 135 days, that adds up to a total of 1.350€.
 
 It may seem a lot, and it is a very appreciated help, but it doesn't cover by far my expenses. I might write a post regarding this matter, as well as my savings plan.
 
