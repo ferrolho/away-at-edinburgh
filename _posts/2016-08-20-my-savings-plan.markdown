@@ -2,7 +2,7 @@
 layout: post
 title:  "My savings plan"
 date:   2016-08-20 11:11:11 +0100
-thumbnail: 20160820-110931.jpg
+thumbnail: 20160820-110931.png
 ---
 
 Studying abroad is expensive. Surely, there are destinations far more expensive than others. But going away to a foreign country for a certain period of time is always more expensive than keep studying (or partying) wherever you are. If you don't want to be a burden on your parents, you should think of a savings plan in advance.
@@ -28,7 +28,7 @@ That adds up to a total of:
 Since Scotland is (still) part of the UK, let's convert that to British Pounds using the current rate: **5.700£**.
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/20160820-110931.jpg" alt="image">
+	<img src="{{ site.baseurl }}/assets/20160820-110931.png" alt="image">
 	<figcaption>
 		This is my new debit card. It is suitable for Portuguese people living abroad. It is free of taxes. That is great because I won't be charged for every withdrawal. My euros will be directly converted to pounds - plain and simple.
 	</figcaption>
