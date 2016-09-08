@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The first days"
-date:   2016-09-08 11:11:11 +0100
+date:   2016-09-08 22:35:00 +0100
 thumbnail: tollcross-junction.jpg
 ---
 
@@ -9,7 +9,7 @@ The first few days have been good. I am still settling in. Adapting to a new cou
 
 The eating habits here are very different from those in Portugal. People eat very little at lunch, and both lunch and dinner times are much more early. I could really tell that my stomach was having a hard time making the switch.
 
-The day I arrived I went to a nearby Subway at around 8 pm and the guy was like 'Oh, come on in! We're still serving.' I was so confused because people in Portugal usually have dinner between 8 pm or 10 pm. The guy was really nice, though. Everyone seems nice and very respectful. I started talking to him and he was from Poland. What are the odds! I told him I went to Krakow last November and he was really happy for talking about it.
+The day I arrived I went to a nearby Subway at around 8 pm and the guy was like 'Oh, come on in! We're still serving.' I was so confused because people in Portugal usually have dinner between 8 pm and 10 pm. The guy was really nice, though. Everyone seems nice and very respectful around here. He was from Poland. What are the odds! I told him I went to Krakow last November and he was really happy for speaking about it.
 
 I am living in Tollcross, which is a pretty busy junction. My room is facing it and there is a considerable amount of noise from the cars, buses, and ambulances going around 24h per day. But I do actually enjoy the background noise.
 
