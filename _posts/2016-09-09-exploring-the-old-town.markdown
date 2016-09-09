@@ -7,7 +7,7 @@ thumbnail: 20160909_170603.jpg
 
 Today I finally took the time to wander through Edinburgh's Old Town. The weather was not that great, but I sure did enjoy every place I went to.
 
-I started my stroll with the intention of visiting *The Elephant House*, where *J. K. Rowling* wrote the second and third *Harry Potter* books. I didn't go in, though. It was just to busy.
+I started my stroll with the intention of visiting *The Elephant House*, where *J. K. Rowling* wrote the second and third *Harry Potter* books. I didn't go in, though. It was just too busy.
 
 I kept exploring the buildings nearby and ended up finding the *Central Library* and the *National Library of Scotland*. They are well worth a visit, and are very good places to read, work, or study.
 
