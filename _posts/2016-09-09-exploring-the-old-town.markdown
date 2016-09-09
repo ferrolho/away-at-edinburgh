@@ -117,7 +117,7 @@ After the museum I headed back home. I stopped by Sainsbury's to get some grocer
 <figure>
 	<img src="https://lh3.googleusercontent.com/LO2GLyu5VzJEFmtbfKPFQdAc2R8m8Ab-JX883DFVnzJxapKKnIaYn0tuvjFXuWzZrfRo2v7-y-BvTsEUTv7Kqpx7yKVCEdDDlS6lUtJvP6W6b0tZSDAGTntNqfGIEO3gvaKJgoQw_5Cc9vkzeRukox8UrBJFGHKX_sXnTLx8efkORGSSSq59TT9EwGZOLWiHV4ZncyDc3VmT8lMjA_iOD9meMrti-e4pCgyE38TdNsNJMiqX3h_gr7Wg0GiK0IANm2iRVCukQ1VbAD2K24Q0xFVtCTyiXJkn8ZVnmcjAR-bJlBxcWKuBRs0KZ6ESt3xdG-PV0id4NCd997i_LRGaPT_WXmSppfmoLMI7LaKD4AiQZiQ44Col4mu5TqgcbJL9NYW3JlJV9UVjbFtZ87Ewfgf3q8zvjZBW9ec2rrzu-ViGLa1G7tgD9JYGQaYFdS9nenBUFlhVSOZrlqOzjj4RwL5u0d612bADQEIVB_AEj2TkKI64IscJhBm6-QBS0qQvIsTZYZWxulmxJzbCdwflGs4HpD2rn95b_XKF7HsNxu-qcojGHktBa-yo9fze7vr4_rpGT0beh3cR3Yk61ikddqsdYGnQkJZiYobaayGYCmFncnXp=w2050-h1538-no" alt="image">
 	<figcaption>
-		Milky Way is so good... Twirl is okay, and Fruit Pastilles are like gummie mentos.
+		Milky Way is so good... Twirl is okay, and Fruit Pastilles are like gummie Mentos.
 	</figcaption>
 </figure>
 
