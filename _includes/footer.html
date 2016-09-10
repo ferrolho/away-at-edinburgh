@@ -51,14 +51,16 @@
 
 <script>
 	$(function() {
-		// Load theme
-		//Galleria.loadTheme('{{ site.baseurl }}/js/galleria/themes/classic/galleria.classic.min.js');
-		Galleria.loadTheme('{{ site.baseurl }}/js/galleria/themes/azur/galleria.azur.min.js');
+		if ($('.galleria').length > 0) {
+			// Load theme
+			//Galleria.loadTheme('{{ site.baseurl }}/js/galleria/themes/classic/galleria.classic.min.js');
+			Galleria.loadTheme('{{ site.baseurl }}/js/galleria/themes/azur/galleria.azur.min.js');
 
-		// Initialize Galleria
-		Galleria.run('.galleria', {
-			height: 0.5625,
-			imageCrop: false,
-		});
+			// Initialize Galleria
+			Galleria.run('.galleria', {
+				height: 0.5625,
+				imageCrop: false,
+			});
+		}
 	});
 </script>
