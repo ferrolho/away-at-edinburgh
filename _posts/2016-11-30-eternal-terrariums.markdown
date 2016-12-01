@@ -12,7 +12,7 @@ But it is finally over. A few all-nighters here and there... But I'm done! Lectu
 
 So... now... 'all I am left with are exams.'
 
-## Procratinating level: *Eternal Terrariums*
+## Procrastination level: *Eternal Terrariums*
 
 I am about to have a hell of another week - but in a whole other level. I will have 4 exams: on the **10**th, **12**th, **15**th, and **16**th of December. And unlike Portugal - here in *The University of Edinburgh* - there are no resits...
 
@@ -70,7 +70,7 @@ Beautiful sunsets are not rare in Portugal. They are actually quite common, and 
 
 In Scotland however, beautiful sunsets are very rare. And as such, *Instagram* was flooded by photos of today's sunset.
 
-I leave you with a picture I took in *George Square* of that very same sunset.
+I'll leave you with a picture I took in *George Square* of that very same sunset.
 
 <figure>
 	<img src="https://lh3.googleusercontent.com/5JSrnZLGdk2uDMu0G4w3qQWiP5by7nIPtjowButWctNEsBeuBMdktfw3LmWSjVAzK5vYuNn0D3-HmunALY1CD8c-rS0RuZypMGZzLPeITyLbzJERDXVKPn6Ah6vg9Gb3cHNZttBRmSRb38FAjhxstiv8NnukKcQguXkv3i8s5g9pzN-C6PoJyhvWmYxTpJLSO1onNnlXmLwhW7__ujeg8NbfvUX8IzejOPGSx9EnGDuhxJPgtxMNStzW8b94PikqdQ_a_vfyYpMsOKjALAMbYa2PjAciptq1rZF-jhYsFL_TueP9TH7ExcL_0zPric8Fy9VGZ1lRXqLxYZ84VVnUFE85fm9XfAf6GtH9PhXo3kUXKArXpNeFsfX99rN1w6CWNYxMPW8XWTbAb0LQApAEjsejvS_3ZA8Z7HR_qBNZS1MjgizNOxyYIaRQJ3V9EOpE1Bz1TQ763uF8KF1r2cJlGi9oL7P-CjaTn_QBG_aW86mjENQvJjtNoh37sr2Aju__dnp8HuE3ft1ds1cjiv6kGdWgBpjGst2MwiyQpoL0So5kOKcj7wuuDwq-6pNcIv-DiIoKqyEgix3su78TNzRLthj2Exka8WnzS5g8s6l1hCsmcu4G3Q=w2038-h1528-no" alt="image">
