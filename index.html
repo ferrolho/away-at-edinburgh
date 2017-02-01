@@ -2,30 +2,25 @@
 layout: default
 ---
 
-<div class="home">
+<div class="table-of-contents">
+
+	<figure>
+	<img src="{{ site.baseurl }}/edinburgh.jpg" alt="image">
+		<figcaption>
+			Edinburgh is Scotland's compact, hilly capital. It has a medieval Old Town and elegant Georgian New Town with gardens and neoclassical buildings. Looming over the city is Edinburgh Castle, home to Scotland’s crown jewels and the Stone of Destiny, used in the coronation of Scottish rulers.
+		</figcaption>
+	</figure>
+
+	<h1 class="page-heading">Table of Contents</h1>
 
 	<ul class="post-list">
 		{% for post in site.posts %}
 		<li>
-			<article>
-				<header class="post-header">
-					<div>
-						<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-					</div>
+			<span class="post-meta" style="font-style: italic;">• {{ post.date | date: "%B %-d, %Y" }} •</span>
 
-					<h2>
-						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-					</h2>
-				</header>
-
-				<div class="entry-content">
-					{{ post.content }}
-				</div>
-			</article>
+			<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h3>
 		</li>
 		{% endfor %}
 	</ul>
-
-	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
