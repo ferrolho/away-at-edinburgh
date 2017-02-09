@@ -4,7 +4,7 @@ title:  A visiting friend
 date:   2017-02-06 00:00:00 +0000
 ---
 
-Quick, quick update. My *Dissertation Planning* presentation was last week - it went fine. I am still writing the literature review of my dissertation. I am applying for a PhD position. We have been running experiments with the robot - they are not going so well.
+Quick, quick update. My *Dissertation Planning* presentation was today - it went fine. I am still writing the literature review of my dissertation. I am applying for a PhD position. We have been running experiments with the robot - they are not going so well.
 
 On another topic: a friend of mine came to visit me for a couple of days. Maria (or Mia, or whatever...) is an actress and I've known her since 5th grade - that's 12 years as of today. If you ever read this: thank you for your visit, I really enjoyed having you over!
 
