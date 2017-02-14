@@ -28,7 +28,7 @@ Google, online banking services, and many other sites also provide this feature.
 
 So here is a funny story about last night...
 
-I was at the robotics lab in the Informatics Forum working on my thesis - yes, on a Sunday... It was around 22h30, so there was almost no one around. A chinese friend of mine that works on the same lab as me, Yuanfei, was also there. He had been on the phone outside of the lab for what seemed like one hour.
+I was at the robotics lab in the Informatics Forum working on my thesis - yes, on a Sunday... It was around 22h30, so there was almost no one around. My friend Yuanfei, that works on the same lab as me, was also there. He had been on the phone outside of the lab for what seemed like one hour.
 
 Suddenly, I had to go to the loo. So I got up, got out of the lab, crossed Yuanfei, and headed to the bathroom. As I was washing my hands, I listened to Yuanfei heading towards the exit, still speaking on his phone. You see, the bathrooms are located in the middle of a corridor that connects the building's hall to the night exit.
 
@@ -58,6 +58,6 @@ And that's it... That's the story.
 
 Today Yuanfei apologized, he didn't do it on purpose of course. In fact, he was actually on the phone when he got another call from one of his flatmates because he or she had forgotten the keys of their flat and couldn't get inside. How hilarious! He went home in a hurry to open the door to someone, but ended up locking someone else... Hahaha!
 
-It would have been hilarious if I had chosen to sleep on one of the couches instead. I wonder what people arriving early in the morning the next day would have thought.
+It would have been interesting if I had chosen to sleep on one of the couches instead. I wonder what people arriving early in the morning the next day would have thought.
 
 After this whole "adventure", I am really considering whether to turn off 2FA or not... Or maybe I should just have my keys with me all times. Yeah, that might be simpler...
