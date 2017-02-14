@@ -56,7 +56,7 @@ Léa and Pauline were still awake because they were watching *Outlander*. When I
 
 And that's it... That's the story.
 
-Today Yuanfei apologized, he didn't due it on purpose of course. In fact, he was actually on the phone when he got another call from one of his flatmates because he or she had forgotten the keys of their flat and couldn't get inside. How hilarious! He went home in a hurry to open the door to someone, but ended up locking someone else... Hahaha!
+Today Yuanfei apologized, he didn't do it on purpose of course. In fact, he was actually on the phone when he got another call from one of his flatmates because he or she had forgotten the keys of their flat and couldn't get inside. How hilarious! He went home in a hurry to open the door to someone, but ended up locking someone else... Hahaha!
 
 It would have been hilarious if I had chosen to sleep on one of the couches instead. I wonder what people arriving early in the morning the next day would have thought.
 
