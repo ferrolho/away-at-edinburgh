@@ -4,15 +4,14 @@ title:  Noodles and robots
 date:   2017-03-02 00:00:00 +0000
 ---
 
-*Yang Yiming* has been complaining about how frequently we get food from <a href="https://redboxrestaurant.com/">Red Box Noodle Bar</a>. I really enjoy it, but he kept insisting on the fact they do not serve the authentic ramen noodles.
+*Yang Yiming* has been complaining about how frequently we get food from <a href="https://redboxrestaurant.com/">Red Box Noodle Bar</a>. I really enjoy it, but he kept insisting on the fact they do not serve authentic ramen noodles.
 
-And so we decided to go to this new chinese place, along with *Wang Ruiqiu* and *Xu Xinnuo*, where they serve handmade ramen noodles and "*oh boy, wasn't it great!*" *Yiming* gave it a 80 / 100.
+And so we decided to go to this new chinese place, along with *Wang Ruiqiu* and *Xu Xinnuo*, where they serve handmade ramen noodles and "*oh boy, wasn't it great!*" *Yiming* gave it a 8 / 10.
 
 <figure>
 	<img src="https://lh3.googleusercontent.com/uOxd1Ebi2gOyxaqD8Wfe0zcQKZWdev4SOtXc322IVvuCfg04why-_M79Xc4DIecCyZxhVodsBPGVLcpLD5LIc9qOBdytNc-PcdHgrTXf6UEZ72z76ta4ATuHuhH32X5WClkyC2NWgbOQjikioISOwtoqIsWIzN4sWl0R4xUmwWLHgWRgDxECSv9sdfaTvnd8qW-dnskQnO1htXp4iWaYgi1FHsTNmw5g-yucJ4pj2OvcFKms22PBUmVrR9yZRdCG-FiXqu6lCZgfxhKfDKe7YPfxoN7dWh5fNqQ4j1VZmdkwRN5TndR1bN3olcp4JzZOFOone26azp01gC6-wNyEdBMkwci4oVfJQRuLVku87WYlA599C45o5jyx8WySQPuD7AlKhsoixu0b3H4QLxdXixdpySz2o8uXvgPwYd3CzCm9bHGAvWpCpH03M6vc7B9OXymio8nH-Cta2CZbfd283-ALHs6TD9Rw1t0n7EBwODM985E_b-B3y6Pb7y8-NrLoO_FO4-xzmKJyEV-hrJx9uBnw1OkcFd-sqNxLAc65o40JxJIh0MOI6KA5eNxZZXeEFzwSz-3noROVRDVebDDsT-Ua9FZqqRWkXCD7lOrlVUOrh_7x7KtmONRfCVbwuk-qbKJANK2ajI9k09hqRVAVhMXS9wAnkVaT32YSFECSq-Y=w2096-h1572-no" alt="Ramen noodles">
 	<figcaption>
-		Delicious handmade ramen noodles at <strong>Noodles and Dumplings</strong>. It is a new<br>
-		Chinese restaurant and it doesn't show up on Google Maps yet, but it's <a href="https://www.google.co.uk/maps/place/55%C2%B056'28.2%22N+3%C2%B010'51.7%22W/@55.941171,-3.183221,525m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d55.941171!4d-3.181027">here</a>.		
+		Delicious handmade ramen noodles from <strong>Noodles and Dumplings</strong>. It is a new Chinese restaurant and it doesn't show up on Google Maps yet, but it's <a href="https://www.google.co.uk/maps/place/55%C2%B056'28.2%22N+3%C2%B010'51.7%22W/@55.941171,-3.183221,525m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d55.941171!4d-3.181027">here</a>.		
 	</figcaption>
 </figure>
 
