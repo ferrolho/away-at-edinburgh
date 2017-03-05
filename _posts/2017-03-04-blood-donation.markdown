@@ -6,7 +6,7 @@ date:   2017-03-04 00:00:00 +0000
 
 One of *Olivia*'s New Year's resolutions was to donate blood for the first time. I have to say: she doesn't have a good relationship with needles.
 
-We had been postponing the visit to the <a href="https://www.scotblood.co.uk/donation-locations/edinburgh-blood-donor-centre/">Edinburgh Blood Donor Centre</a> for a long time. But finally, yesterday we made it and we went there.<br>
+We had been postponing the visit to the <a href="https://www.scotblood.co.uk/donation-locations/edinburgh-blood-donor-centre/">Edinburgh Blood Donor Centre</a> for a long time. But yesterday we finally made it and we went there.<br>
 As soon as we entered the building, her hands started dripping sweat. Literally, they turned into water taps - that's how nervous she was.
 
 <figure>
@@ -34,6 +34,13 @@ On a different note, <a href="https://vladimirivan.wordpress.com/">*Vlad*</a> de
 	</figcaption>
 </figure>
 
-Currently, we are developing a controller interface for a gamepad and dealing with all the constraints associated with the foostep planner. The goal is to teleoperate valkyrie with a common Xbox controller.
+Currently, we are developing a controller interface for a gamepad and dealing with all the constraints associated with the foostep planner. The goal is to enable anyone to safely teleoperate valkyrie with a common Xbox controller.
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/white-board-w1.jpg" alt="White board with pseudocode">
+	<figcaption>
+		Some early drafts of the first side project.
+	</figcaption>
+</figure>
 
 We have other interesting ideas we want to try out and I am looking forward to keep up with these experiments.
