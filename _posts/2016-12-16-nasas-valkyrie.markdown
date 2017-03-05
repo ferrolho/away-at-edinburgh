@@ -12,7 +12,7 @@ That's right. I got one of the best opportunities I could ever have asked for. I
 <figure>
 	<img src="{{ site.baseurl }}/assets/20161216_170451.jpg" alt="My new Penny Board">
 	<figcaption>
-		Meet my new 125kg robotic friend.<br>
+		Meet my new 136kg robotic friend.<br>
 		It - well, she... - is taller and stronger than me.
 	</figcaption>
 </figure>
