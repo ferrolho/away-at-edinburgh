@@ -48,7 +48,7 @@ Surely, I took them to Arthur's Seat. And of course, being the traditional Portu
 It tasted like life...
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/WhatsApp Image 2017-04-10 at 09.40.40.jpeg">
+	<img src="{{ site.baseurl }}/assets/WhatsApp_Image_2017-04-10_at_09.40.40.jpeg">
 	<figcaption>
 		Me and my cousins on top of Arthur's Seat.<br>
 		Credits to Wolfgang Merkt for the picture.
@@ -56,7 +56,7 @@ It tasted like life...
 </figure>
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/WhatsApp Image 2017-04-10 at 09.40.52.jpeg">
+	<img src="{{ site.baseurl }}/assets/WhatsApp_Image_2017-04-10_at_09.40.52.jpeg">
 	<figcaption>
 		Aaaand... from another perspective.<br>
 		Again, credits to Wolf.
