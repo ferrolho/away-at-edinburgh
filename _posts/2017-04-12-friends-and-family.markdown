@@ -28,9 +28,9 @@ At the end of the week, after they left and before my cousins arrival, I took th
 	</figcaption>
 </figure>
 
-Edinburgh always seems to surprise me, and this time it was in a very funny way. While we were chilling, a drunk guy came running around from a cop, still hanging on to his beloved wine bottle.
+Edinburgh always seems to surprise me, and this time in a very funny way. While we were chilling, a drunk guy appeared out of nowhere running away from a cop, still hanging on to his beloved wine bottle.
 
-After jumping - he barely made it, really - that very same iron fence in the picture above, he though he had outrun the cop. But no, the policeman simply had gone down the stairs instead of cutting through the grass.
+After jumping - he barely made it, really - that very same iron fence in the picture above, he thought he had outrun the cop. But no, the policeman had simply gone down the stairs instead of cutting through the grass.
 
 It was very entertaining to see the fugitive slowing his pace, going for a sip, looking up towards Princes Street to make sure the policeman had quit the pursuit, and not seeing the cop actually catching up with him from behind.
 
