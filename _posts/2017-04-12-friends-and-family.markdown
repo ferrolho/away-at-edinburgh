@@ -2,7 +2,7 @@
 layout: post
 title:  Friends and Family
 date:   2017-04-12 00:00:00 +0000
-thumbnail: WhatsApp Image 2017-04-10 at 09.40.40.jpeg
+thumbnail: WhatsApp_Image_2017-04-10_at_09.40.40.jpeg
 ---
 
 The last 12 days were simply great. I had the pleasure of sharing my small - but cozy - bedroom with some of my greatest friends and family.
