@@ -15,7 +15,7 @@ I share the flat with 4 other people: Yuqi, Kayue, Wenbin (from China), and Nosa
 <figure>
 	<img src="{{ site.baseurl }}/assets/phd/IMG_20170914_000000.jpg">
 	<figcaption>
-		From left to right: Me, 王绰绰, 靴卡约, 杨文斌, and Nosadeba.
+		From left to right: Me, 王绰绰, 薛恺玥, 杨文斌, and Nosadeba.
 	</figcaption>
 </figure>
 
