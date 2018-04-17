@@ -9,17 +9,19 @@ A long time ago, in an Informatics Forum far, far away....
 
 <br>
 
+It all started in George Square when some friendly Bowbridge Alpacas decided to come and say hello to the Informatics folks.
+
 <figure>
 	<img src="{{ site.baseurl }}/assets/13-04-2018/alpacas.jpg">
 	<figcaption>
-		It all started in George Square when some friendly Bowbridge Alpacas decided to come and say hello to the Informatics folks.
+		The Bowbridge Alpacas in George Square.
 	</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/13-04-2018/greeks.jpg">
 	<figcaption>
-		A Chinese, the Greeks, and the Alpacas. Try to spot the fake Greek guy. From left to right: Theo, (Yan Lei), Evri, and (Wang Jiayi).
+		A Chinese, the Greeks, and the Alpacas. Try to spot the fake Greek guy. From left to right: Theo, 闫磊 (Yan Lei), Evri, and 王嘉祎 (Wang Jiayi).
 	</figcaption>
 </figure>
 
@@ -55,14 +57,14 @@ Saturday was Kayaking and Canoeing day.
 <figure>
 	<img src="{{ site.baseurl }}/assets/13-04-2018/canoe.jpg">
 	<figcaption>
-		Me and (Yan Lei) on our awesome canoe.
+		Me and 闫磊 (Yan Lei) on our awesome canoe.
 	</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/13-04-2018/xinnuo.jpg">
 	<figcaption>
-		(Xu Xinnuo) on her kayak.
+		许心诺 (Xu Xinnuo) on her kayak.
 	</figcaption>
 </figure>
 
